@@ -14,6 +14,10 @@ When importing on Eclipse IDE without gradle, type in commands below in console(
 ./gradlew eclipse
 ```
 
+# Version History
+ 3.0 origin
+ 3.0.1 index-work 0.1
+
 # Usage
 
 ### For analyzing
